@@ -1,0 +1,6 @@
+1,Mean Greene,0-5,10,0.00
+2,Marmaduke,4-1,2,40.85
+4,Jane Doe,4-1,3,35.24
+5,Greg Kinneer,3-2,4,15.22
+6,Griffin Mcelroy,3-2,5,9.35
+3,John Doe,5-0,1,49.93
